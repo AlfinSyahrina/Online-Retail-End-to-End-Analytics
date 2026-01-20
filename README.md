@@ -20,7 +20,7 @@ Visualization: Power BI (Interactive Dashboarding).
 📂 Dataset Information
 Due to GitHub's file size limitations, only a sample of the cleaned data is uploaded here. The full original dataset can be accessed below:
 
-Source: ![Online Retail Dataset](https://www.kaggle.com/datasets/sowndarya23/online-retail-dataset)
+Source: [Online Retail Dataset](https://www.kaggle.com/datasets/sowndarya23/online-retail-dataset)
 
 💡 Key Business Insights
 Based on the dashboard analysis, here are the three key findings:
@@ -40,5 +40,6 @@ Dissects customer profiles using RFM segmentation, featuring segment distributio
 
 3. Product Affinity (Market Basket)
 Utilizes association algorithms to identify products frequently bought together to support merchandising and cross-selling decisions. ![Product Affinity](dashboard/product_affinity.png)
+
 
 [https://www.kaggle.com/datasets/sowndarya23/online-retail-dataset]: https://www.kaggle.com/datasets/sowndarya23/online-retail-dataset
