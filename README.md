@@ -34,12 +34,16 @@ Bundling Strategy: Market Basket Analysis revealed that "Alarm Clock Bakelike" p
 📊 Dashboard Preview
 1. Executive Sales Overview
 Provides a macro view of business performance, including key KPIs (Revenue, Transactions, AOV) and global sales geographic distribution.
+
 ![Executive Sales](dashboard/executive_sales.png)
 
 3. Customer Strategy (RFM)
 Dissects customer profiles using RFM segmentation, featuring segment distribution via Donut Charts and Recency vs. Monetary correlations via Scatter Plots.
+
 ![Customer Strategy](dashboard/customer_strategy.png)
 
 5. Product Affinity (Market Basket)
 Utilizes association algorithms to identify products frequently bought together to support merchandising and cross-selling decisions.
+
 ![Product Affinity](dashboard/product_affinity.png)
+
