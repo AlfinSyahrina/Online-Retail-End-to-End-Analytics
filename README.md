@@ -1,4 +1,5 @@
 🛒 Online Retail End-to-End Data Pipeline & Analytics
+
 🎯 Business Objective
 This project aims to transform raw retail transaction data into actionable strategic insights through an automated data workflow. The primary focuses of this project are:
 
@@ -46,4 +47,5 @@ Dissects customer profiles using RFM segmentation, featuring segment distributio
 Utilizes association algorithms to identify products frequently bought together to support merchandising and cross-selling decisions.
 
 ![Product Affinity](dashboard/product_affinity.png)
+
 
